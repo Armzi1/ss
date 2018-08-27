@@ -1,0 +1,45 @@
+{
+    "room": "Community Name",
+    "author": "Author",
+    "icon": null,
+    "css": null,
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": 	#FF0000,
+        "cohost": 	#FF0000,
+        "manager": 	#000080,
+        "bouncer": 	#3CB371,
+        "rdj": 	#FFD700,
+        "subscriber": null,
+        "silversubscriber": null,
+        "friend": null,
+        "user": null
+    },
+    "images": {
+        "background": https://images.wallpaperscraft.com/image/forest_trees_fog_110485_300x188.jpg,
+        "playback": null,
+        "admin": null,
+        "ambassador": null,
+        "host": null,
+        "cohost": null,
+        "manager": null,
+        "bouncer": null,
+        "rdj": null,
+        "subscriber": null,
+        "silversubscriber": null
+    },
+    "emotes": {
+    	"emote_name": null
+    }
+}
